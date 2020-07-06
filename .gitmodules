@@ -1,7 +1,7 @@
 [submodule "themes/hugo-kiera"]
 	path = themes/hugo-kiera
 	url = https://github.com/NidzaKornjaca/hugo-kiera.git
-[submodule "fubira.github.io"]
+[submodule "public"]
 	path = public
 	url = https://github.com/fubira/fubira.github.io.git
 	branch = master
