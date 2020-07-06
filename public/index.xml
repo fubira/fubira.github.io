@@ -1,0 +1,39 @@
+
+   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+       <title>Empty</title>
+       <link>https://fubira.github.io/</link>
+       <description>Recent content on Empty</description>
+       <generator>Hugo -- gohugo.io</generator>
+       <language>ja-JP</language>
+       <copyright>Copyright &amp;copy; 2020 - fubira</copyright>
+       <lastBuildDate>Mon, 06 Jul 2020 03:34:40 +0900</lastBuildDate>
+       
+           <atom:link href="https://fubira.github.io/index.xml" rel="self" type="application/rss+xml" />
+       
+       
+       <item>
+         <title>About</title>
+         <link>https://fubira.github.io/about/</link>
+         <pubDate>Mon, 06 Jul 2020 04:38:25 +0900</pubDate>
+         
+         <guid>https://fubira.github.io/about/</guid>
+         <description>&lt;figure&gt;
+    &lt;img src=&#34;https://fubira.github.io/images/header.jpg&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;アバウトに。&lt;/p&gt;
+</description>
+       </item>
+       
+       <item>
+         <title>Posts</title>
+         <link>https://fubira.github.io/posts/</link>
+         <pubDate>Mon, 06 Jul 2020 03:34:40 +0900</pubDate>
+         
+         <guid>https://fubira.github.io/posts/</guid>
+         <description></description>
+       </item>
+       
+     </channel>
+   </rss>
