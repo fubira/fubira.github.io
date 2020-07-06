@@ -7,4 +7,6 @@ meta: "false"
 draft: false
 ---
 
+{{< img src="/images/header.jpg" >}}
+
 アバウトに。
