@@ -1,8 +1,8 @@
 baseURL = "https://fubira.github.io/"
 languageCode = "ja-JP"
 defaultContentLanguage = "ja"
-title = "empty"
-copyright = "Copyright &copy; 2020 - Author Name"
+title = "Empty"
+copyright = "Copyright &copy; 2020 - fubira"
 theme= "hugo-kiera"
 
 paginate = 3
@@ -22,5 +22,5 @@ pygmentsCodeFences = true
     stackoverflow = ""  #StackOverflow username
 
 [params]
-    tagline = "the tagline for this website"
+    tagline = "中身のない, からっぽ, 無意味な, 当てにならない, 空虚な, くだらない;"
     customCSS = []  #Optional Customised CSS
