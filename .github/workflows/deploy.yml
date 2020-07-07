@@ -25,7 +25,7 @@ jobs:
 
       - name: Commit public
         uses: EndBug/add-and-commit@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
         with:
           cwd: 'public'
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
