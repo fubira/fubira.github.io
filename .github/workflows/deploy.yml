@@ -14,17 +14,11 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.71.1'
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Commit public
-        uses: EndBug/add-and-commit@v4
-        with:
-          cwd: 'public'
+      - name: Deploy the site
+        uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_REPO: fubira/fubira.github.io
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HUGO_ARGS: '--minify'
+          CNAME: fubira.github.io
+
