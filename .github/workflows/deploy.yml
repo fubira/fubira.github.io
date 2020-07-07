@@ -20,12 +20,12 @@ jobs:
           hugo-version: '0.71.1'
           # extended: true
 
-      - name: Config
-        run: |
-          git config --global user.email "6347234+fubira@users.noreply.github.com"
-          git config --global user.name "Github Actions"
+      - name: Build
+        run: hugo --minify
 
-      - name: Build, Deploy
-        run: bash ./deploy.sh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit public
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: 'public'
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
