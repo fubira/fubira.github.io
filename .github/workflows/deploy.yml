@@ -21,4 +21,4 @@ jobs:
           # extended: true
 
       - name: Build, Deploy
-        run: ./deploy.sh
+        run: bash ./deploy.sh
