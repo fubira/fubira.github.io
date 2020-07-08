@@ -3,9 +3,8 @@ title: "SkipSign"
 date: 2020-07-08T22:05:16+09:00
 meta: true
 tags: ["minecraft", "mod", "forge"] 
+image: "skipsign.jpg"
 ---
-
-{{< img src="skipsign.jpg" >}}
 
 SkipSignは、プレイヤーから一定以上離れた看板の文字やモデル、チェスト等を非表示にすることでレンダリング速度を改善するMODです。
 大人数が参加する建築サーバやLockette等チェストロックに看板を使うサーバでは特に効果があります。
@@ -37,11 +36,11 @@ SkipSignは、プレイヤーから一定以上離れた看板の文字やモデ
 
 ## Download
 
-| ダウンロード                                   | 対応バージョン        | 更新日         |
-| ---------------------------------------------- | --------------------- | -------------- |
-| **[v1.15.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2XbCaGV)**        | Forge 1.15.2-31.1.0   | 2020/04/08     |
-| **[v1.14.4-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/3bZYNlw)**        | Forge 1.14.4-28.2.0   |                |
-| **[v1.13.2-c {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2Xy7VdA)**        | Forge 1.13.2-25.0.193 |                |
+| ダウンロード                                                                        | 対応バージョン        | 更新日         |
+| ----------------------------------------------------------------------------------- | --------------------- | -------------- |
+| **[v1.15.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2XbCaGV)**  | Forge 1.15.2-31.1.0   | 2020/04/08     |
+| **[v1.14.4-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/3bZYNlw)**  | Forge 1.14.4-28.2.0   |                |
+| **[v1.13.2-c {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2Xy7VdA)**  | Forge 1.13.2-25.0.193 |                |
 
 ## Source
 
@@ -53,4 +52,4 @@ LGPL v3.0
 
 ## Author
 
-* TTTA2 / fubira / kenmomine.club
+TTTA2 / fubira / 嫌儲minecraft部

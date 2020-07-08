@@ -3,9 +3,8 @@ title: "FlightView"
 date: 2020-07-08T22:05:16+09:00
 meta: true
 tags: ["minecraft", "mod", "forge", "rift"]
+image: "flightview.jpg"
 ---
-
-{{< img src="flightview.jpg" >}}
 
 FlightViewは、エリトラ飛行時に便利な情報を表示するMODです。
 

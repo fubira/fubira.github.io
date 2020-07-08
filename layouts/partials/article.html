@@ -1,0 +1,16 @@
+<article>
+
+  <h1>{{ .Title }}</h1>
+
+  {{ if .Params.image }}
+    {{ $img := .Page.Resources.GetMatch (.Params.image) }}
+    <img src="{{ with $img }}{{ .Permalink }}{{else}}{{ .Params.image }}{{ end }}" alt="{{ .Title }}" class="img-title" />
+  {{ end }}
+
+  {{ if not .Params.meta }}
+    {{ partial "aside" . }}
+  {{ end }}
+
+  {{.Content}}
+
+</article>

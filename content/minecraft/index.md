@@ -1,12 +1,11 @@
 ---
 title: "Minecraft"
 date: 2020-07-08T21:12:37+09:00
+meta: true
 menu: "main"
 weight: "20"
-meta: true
+image: "minecraft.jpg"
 ---
-
-{{< img src="minecraft.jpg" >}}
 
 拙作Minecraft Mod & Pluginの紹介
 
