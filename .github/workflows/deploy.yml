@@ -19,3 +19,5 @@ jobs:
         with:
           TARGET_REPO: fubira/fubira.github.io
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CNAME: fubira.github.io
+
