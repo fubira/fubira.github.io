@@ -1,90 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Empty</title><link>https://fubira.github.io/</link><description>Recent content on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Minecraft</title><link>https://fubira.github.io/minecraft/</link><pubDate>Wed, 08 Jul 2020 21:12:37 +0900</pubDate><guid>https://fubira.github.io/minecraft/</guid><description>&lt;h2 id="mods">Mods&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>&lt;/th>
-&lt;th>概要&lt;/th>
-&lt;th>対応バージョン&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;a href="https://fubira.github.io/minecraft-mod-horseinfo/">HorseInfo Reloaded&lt;/a>&lt;/td>
-&lt;td>馬の能力値表示MOD&lt;/td>
-&lt;td>Forge 1.15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;a href="https://fubira.github.io/minecraft-mod-flightview/">FlightView&lt;/a>&lt;/td>
-&lt;td>エリトラ飛行時の情報表示MOD&lt;/td>
-&lt;td>Forge 1.15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;a href="https://fubira.github.io/minecraft-mod-skipsign/">SkipSign&lt;/a>&lt;/td>
-&lt;td>看板等の描画を省略し高速化するMOD&lt;/td>
-&lt;td>Forge 1.15&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="plugins">Plugins&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>&lt;/th>
-&lt;th>概要&lt;/th>
-&lt;th>対応バージョン&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Omikuji&lt;/td>
-&lt;td>1日1回変化するおみくじが引けるお遊びプラグイン&lt;/td>
-&lt;td>Spigot 1.15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>InterChat&lt;/td>
-&lt;td>複数のサーバ間でチャットを同期する&lt;/td>
-&lt;td>Spigot 1.15&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>NihongoChat&lt;/td>
-&lt;td>ローマ字チャットをひらがな・漢字変換する&lt;/td>
-&lt;td>Spigot 1.15&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="others">Others&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>&lt;/th>
-&lt;th>概要&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>TemzinBot&lt;/td>
-&lt;td>Mineflayerを利用した簡易BOT実装&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item><item><title>About</title><link>https://fubira.github.io/about/</link><pubDate>Mon, 06 Jul 2020 04:38:25 +0900</pubDate><guid>https://fubira.github.io/about/</guid><description>&lt;figure>
-&lt;img src="https://fubira.github.io/images/about.jpg"/>
-&lt;/figure>
-&lt;p>&lt;strong>Author:&lt;/strong> &lt;strong>@fubira&lt;/strong> &lt;em>ソフトウェアエンジニア&lt;/em>&lt;/p>
-&lt;p>学生の頃よりプログラマとしてコンシューマ向けゲーム開発に携わる。ベンチャー企業から大手企業までいくつかの職場を渡り歩き、サーバ向けソフトウェア、スマートフォン向けミドルウェア、携帯向けJavaアプリ、スマートフォン向けゲームなどの開発を担当。
-2018年よりフリーランスとして活動中。&lt;/p>
-&lt;h3 id="skills">Skills&lt;/h3>
-&lt;ul>
-&lt;li>スマートフォンアプリケーション開発&lt;/li>
-&lt;li>ウェブアプリケーション開発&lt;/li>
-&lt;li>ゲーム開発&lt;/li>
-&lt;li>IoT/組み込みソフトウェア開発&lt;/li>
-&lt;/ul>
-&lt;h3 id="technical">Technical&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Programing Languages:&lt;/strong> Node.js, C/C++, Java, Python, PHP, Ruby&lt;/li>
-&lt;li>&lt;strong>Platforms:&lt;/strong> Linux/Unix, iOS, Android, HTML5, Unity&lt;/li>
-&lt;li>&lt;strong>Technologies:&lt;/strong> CI, Docker, OpenGL, Relational DB, NoSQL DB, AWS, IoT&lt;/li>
-&lt;/ul></description></item><item><title>FlightView</title><link>https://fubira.github.io/minecraft-mod-flightview/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-flightview/</guid><description>&lt;figure>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>minecraft on Empty</title><link>https://fubira.github.io/tags/minecraft/</link><description>Recent content in minecraft on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/tags/minecraft/index.xml" rel="self" type="application/rss+xml"/><item><title>FlightView</title><link>https://fubira.github.io/minecraft-mod-flightview/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-flightview/</guid><description>&lt;figure>
 &lt;img src="https://fubira.github.io/minecraft-mod-flightview/flightview.jpg"/>
 &lt;/figure>
 &lt;p>FlightViewは、エリトラ飛行時に便利な情報を表示するMODです。&lt;/p>
@@ -292,4 +206,4 @@ GitHub&lt;/a>&lt;/strong>&lt;/p>
 &lt;h2 id="author">Author&lt;/h2>
 &lt;ul>
 &lt;li>TTTA2 / fubira / kenmomine.club&lt;/li>
-&lt;/ul></description></item><item><title>Posts</title><link>https://fubira.github.io/posts/</link><pubDate>Wed, 08 Jul 2020 03:34:40 +0900</pubDate><guid>https://fubira.github.io/posts/</guid><description/></item></channel></rss>
+&lt;/ul></description></item></channel></rss>
