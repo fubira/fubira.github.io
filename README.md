@@ -1,11 +1,11 @@
-# site-profile
+# fubira.github.io
 
 [Link to page](https://fubira.github.io/)
 
 ## checkout
 
 ```sh
-git checkout https://github.com/fubira/site-profile.git
+git checkout https://github.com/fubira/fubira.github.io.git
 git submodule update --init --recursive
 ```
 
@@ -13,12 +13,6 @@ git submodule update --init --recursive
 
 ```sh
 hugo server
-```
-
-## deploy to github
-
-```sh
-./deploy.sh [comment]
 ```
 
 ## add new page
