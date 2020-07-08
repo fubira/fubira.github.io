@@ -15,8 +15,9 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: publish
-        uses: benmatselby/hugo-deploy-gh-pages@master
-        env:
-          TARGET_REPO: fubira/fubira.github.io
-          CNAME: fubira.github.io
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: chabad360/hugo-gh-pages@master
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          repo: fubira/fubira.github.io
+          cname: fubira.github.io
+          sideDir: /github/workspace/public
