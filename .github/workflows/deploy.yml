@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  deploy:
+  publish:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
@@ -16,8 +16,7 @@ jobs:
 
       - name: publish
         uses: benmatselby/hugo-deploy-gh-pages@master
-        with:
+        env:
           TARGET_REPO: fubira/fubira.github.io
           CNAME: fubira.github.io
-        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
