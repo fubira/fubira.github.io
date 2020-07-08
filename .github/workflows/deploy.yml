@@ -16,8 +16,6 @@ jobs:
 
       - name: publish
         uses: chabad360/hugo-gh-pages@master
-        env:
-          workspace: $GITHUB_WORKSPACE
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          siteDir: ${{ env.workspace }}/public
+          siteDir: public
