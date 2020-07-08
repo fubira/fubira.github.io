@@ -1,0 +1,132 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rift on Empty</title><link>https://fubira.github.io/tags/rift/</link><description>Recent content in rift on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/tags/rift/index.xml" rel="self" type="application/rss+xml"/><item><title>FlightView</title><link>https://fubira.github.io/minecraft-mod-flightview/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-flightview/</guid><description>&lt;figure>
+&lt;img src="https://fubira.github.io/minecraft-mod-flightview/flightview.jpg"/>
+&lt;/figure>
+&lt;p>FlightViewは、エリトラ飛行時に便利な情報を表示するMODです。&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>対空速度、対地速度の表示&lt;/li>
+&lt;li>ヨー角、ピッチ角の表示&lt;/li>
+&lt;li>エリトラの耐久度表示&lt;/li>
+&lt;li>飛行中の三人称視点へのカメラ自動切替&lt;/li>
+&lt;/ul>
+&lt;h2 id="usage">Usage&lt;/h2>
+&lt;ul>
+&lt;li>&amp;lsquo;V&amp;rsquo;キーを押すことで状態が切り替わります。
+&lt;ul>
+&lt;li>1度&amp;rsquo;V&amp;rsquo;キーを押すと&lt;strong>情報表示モード&lt;/strong>に切り替わります。&lt;/li>
+&lt;li>2度&amp;rsquo;V&amp;rsquo;キーを押すと&lt;strong>情報表示+カメラ自動切り替えモード&lt;/strong>に切り替わります&lt;/li>
+&lt;li>3度&amp;rsquo;V&amp;rsquo;キーを押すとFlightViewはOffになります&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>切替キーはオプション→操作設定から変更可能です。&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ダウンロード&lt;/th>
+&lt;th>対応バージョン&lt;/th>
+&lt;th>更新日&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/3aQ1KoV">v1.15.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.15.2-31.1.0&lt;/td>
+&lt;td>2020/04/07&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2yMDLp7">v1.14.4-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.14.4-28.0.40&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2kOC7Qy">rift-v1.13.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Rift 1.0.4-106 1.13.2&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2ZDIOnc">v1.13.2-b &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.13.2-25.0.193&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="source">Source&lt;/h2>
+&lt;p>&lt;strong>&lt;a href="https://github.com/fubira/FlightView">&lt;i class="fab fa-github">&lt;/i>
+GitHub&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>HorseInfo Reloaded</title><link>https://fubira.github.io/minecraft-mod-horseinfo/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-horseinfo/</guid><description>&lt;figure>
+&lt;img src="https://fubira.github.io/minecraft-mod-horseinfo/horseinfo.jpg"/>
+&lt;/figure>
+&lt;p>HorseInfo Reloadedは、馬などのMob entityのパラメータをMobの上部に表示するMODです。&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>馬/ロバ/ラバのパラメータ表示&lt;/p>
+&lt;ul>
+&lt;li>馬/ロバ/ラバの能力値(体力, スピード, ジャンプ)の表示&lt;/li>
+&lt;li>パネルの色で総合的な能力の高さを識別可能(赤→橙→黄→緑→水色→青→黒)。能力の高い馬を遠くからでも判別できます。&lt;/li>
+&lt;li>総合的な能力値の高さを識別文字で表示(S - A - B - C - D - E - F - G)&lt;/li>
+&lt;li>子馬かどうかの表示&lt;/li>
+&lt;li>名前、オーナーの表示&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>ラマ / イヌ / ネコのパラメータ表示&lt;/p>
+&lt;ul>
+&lt;li>名前、オーナーの表示&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="usage">Usage&lt;/h2>
+&lt;ul>
+&lt;li>&amp;lsquo;H&amp;rsquo;キーを押すことで表示のON/OFFの切り替えができます。
+&lt;ul>
+&lt;li>切替キーはオプション→操作設定から変更可能&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="download">Download&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ダウンロード&lt;/th>
+&lt;th>対応バージョン&lt;/th>
+&lt;th>更新日&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2yFNiBF">v1.15.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.15.2-31.1.0&lt;/td>
+&lt;td>2020/04/08&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2MU0Y0P">v1.14.4-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.14.4-28.2.0&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2lTRIP3">rift-v1.13.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Rift 1.0.4-106 1.13.2&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2XqDZ31">v1.13.2-b &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.13.2-25.0.193&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="source">Source&lt;/h2>
+&lt;p>&lt;strong>&lt;a href="https://github.com/fubira/HorseInfoReloaded">&lt;i class="fab fa-github">&lt;/i>
+GitHub&lt;/a>&lt;/strong>&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>MIT&lt;/p></description></item></channel></rss>

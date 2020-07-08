@@ -1,4 +1,8 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Empty</title><link>https://fubira.github.io/</link><description>Recent content on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Minecraft</title><link>https://fubira.github.io/minecraft/</link><pubDate>Wed, 08 Jul 2020 21:12:37 +0900</pubDate><guid>https://fubira.github.io/minecraft/</guid><description>&lt;h2 id="mods">Mods&lt;/h2>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Empty</title><link>https://fubira.github.io/</link><description>Recent content on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Minecraft</title><link>https://fubira.github.io/minecraft/</link><pubDate>Wed, 08 Jul 2020 21:12:37 +0900</pubDate><guid>https://fubira.github.io/minecraft/</guid><description>&lt;figure>
+&lt;img src="https://fubira.github.io/minecraft/minecraft.jpg"/>
+&lt;/figure>
+&lt;p>拙作Minecraft Mod &amp;amp; Pluginの紹介&lt;/p>
+&lt;h2 id="mods">Mods&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -70,7 +74,8 @@
 &lt;img src="https://fubira.github.io/images/about.jpg"/>
 &lt;/figure>
 &lt;p>&lt;strong>Author:&lt;/strong> &lt;strong>@fubira&lt;/strong> &lt;em>ソフトウェアエンジニア&lt;/em>&lt;/p>
-&lt;p>学生の頃よりプログラマとしてコンシューマ向けゲーム開発に携わる。ベンチャー企業から大手企業までいくつかの職場を渡り歩き、サーバ向けソフトウェア、スマートフォン向けミドルウェア、携帯向けJavaアプリ、スマートフォン向けゲームなどの開発を担当。
+&lt;p>学生の頃よりプログラマとしてコンシューマ向けゲーム開発に携わる。
+その後ベンチャー企業から大手企業までいくつかの職場を渡り歩き、サーバ向けソフトウェア、スマートフォン向けミドルウェア、携帯向けJavaアプリ、スマートフォン向けゲームなどの開発を担当。
 2018年よりフリーランスとして活動中。&lt;/p>
 &lt;h3 id="skills">Skills&lt;/h3>
 &lt;ul>
