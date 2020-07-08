@@ -1,4 +1,18 @@
 body {
-  font-family: "Roboto Slab", "Hiragion Mincho", "Hiragion Mincho ProN", "YuMincho", serif;
+  font-family: "Hiragion Gothic", "Hiragion Gothic ProN", "YuGothic", Meiryo, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  /* font-family: "Roboto Slab", "Hiragion Mincho", "Hiragion Mincho ProN", "YuMincho", serif, Apple Color Emoji, Segoe UI Emoji; */
   transform: rotate(.03deg);
+  color: #24292e;
+  font-size: 1.0rem;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+#container main {
+  flex: 1 0 0;
+  line-height: 1.5;
+  font-size: 1.0rem;
 }

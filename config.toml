@@ -5,7 +5,7 @@ title = "Empty"
 copyright = "Copyright &copy; 2020 - fubira"
 theme= "hugo-kiera"
 
-paginate = 3
+paginate = 10
 
 summaryLength = 30
 enableEmoji = true
