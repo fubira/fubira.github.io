@@ -18,4 +18,4 @@ jobs:
         uses: benmatselby/hugo-deploy-gh-pages@master
         with:
           TARGET_REPO: fubira/fubira.github.io
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
