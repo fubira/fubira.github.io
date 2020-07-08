@@ -20,4 +20,4 @@ jobs:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           repo: fubira/fubira.github.io
           cname: fubira.github.io
-          sideDir: /github/workspace/public
+          siteDir: /github/workspace/public
