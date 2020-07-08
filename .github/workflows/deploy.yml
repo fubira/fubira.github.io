@@ -18,6 +18,4 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          repo: fubira/fubira.github.io
-          cname: fubira.github.io
-          siteDir: /github/workspace/public
+          siteDir: ${{ GITHUB_WORKSPACE }}/public
