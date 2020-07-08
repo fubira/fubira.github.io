@@ -2,7 +2,7 @@
 title: "FlightView"
 date: 2020-07-08T22:05:16+09:00
 meta: true
-tags: ["minecraft", "mod", "forge"] 
+tags: ["minecraft", "mod", "forge", "rift"]
 ---
 
 {{< img src="flightview.jpg" >}}

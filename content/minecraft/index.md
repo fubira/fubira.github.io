@@ -6,6 +6,10 @@ weight: "20"
 meta: true
 ---
 
+{{< img src="minecraft.jpg" >}}
+
+拙作Minecraft Mod & Pluginの紹介
+
 ## Mods
 
 |                                                                 | 概要                                 | 対応バージョン |

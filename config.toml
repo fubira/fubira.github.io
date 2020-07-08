@@ -22,7 +22,7 @@ pygmentsCodeFences = true
     stackoverflow = ""  #StackOverflow username
 
 [params]
-    tagline = "中身のない, からっぽ, 無意味な, 当てにならない, 空虚な, くだらない;"
+    tagline = "中身のない, からっぽの, 無意味な, 当てにならない, くだらない"
 
 [params.assets]
     customCSS = ["/css/custom.css"]  #Optional Customised CSS
