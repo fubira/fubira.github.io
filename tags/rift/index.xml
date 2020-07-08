@@ -1,7 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rift on Empty</title><link>https://fubira.github.io/tags/rift/</link><description>Recent content in rift on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/tags/rift/index.xml" rel="self" type="application/rss+xml"/><item><title>FlightView</title><link>https://fubira.github.io/minecraft-mod-flightview/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-flightview/</guid><description>&lt;figure>
-&lt;img src="https://fubira.github.io/minecraft-mod-flightview/flightview.jpg"/>
-&lt;/figure>
-&lt;p>FlightViewは、エリトラ飛行時に便利な情報を表示するMODです。&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rift on Empty</title><link>https://fubira.github.io/tags/rift/</link><description>Recent content in rift on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/tags/rift/index.xml" rel="self" type="application/rss+xml"/><item><title>FlightView</title><link>https://fubira.github.io/minecraft-mod-flightview/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-flightview/</guid><description>&lt;p>FlightViewは、エリトラ飛行時に便利な情報を表示するMODです。&lt;/p>
 &lt;h2 id="features">Features&lt;/h2>
 &lt;ul>
 &lt;li>対空速度、対地速度の表示&lt;/li>
@@ -58,10 +55,7 @@
 &lt;/table>
 &lt;h2 id="source">Source&lt;/h2>
 &lt;p>&lt;strong>&lt;a href="https://github.com/fubira/FlightView">&lt;i class="fab fa-github">&lt;/i>
-GitHub&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>HorseInfo Reloaded</title><link>https://fubira.github.io/minecraft-mod-horseinfo/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-horseinfo/</guid><description>&lt;figure>
-&lt;img src="https://fubira.github.io/minecraft-mod-horseinfo/horseinfo.jpg"/>
-&lt;/figure>
-&lt;p>HorseInfo Reloadedは、馬などのMob entityのパラメータをMobの上部に表示するMODです。&lt;/p>
+GitHub&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>HorseInfo Reloaded</title><link>https://fubira.github.io/minecraft-mod-horseinfo/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-horseinfo/</guid><description>&lt;p>HorseInfo Reloadedは、馬などのMob entityのパラメータをMobの上部に表示するMODです。&lt;/p>
 &lt;h2 id="features">Features&lt;/h2>
 &lt;ul>
 &lt;li>
