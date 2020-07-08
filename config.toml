@@ -23,4 +23,6 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "中身のない, からっぽ, 無意味な, 当てにならない, 空虚な, くだらない;"
-    customCSS = []  #Optional Customised CSS
+
+[params.assets]
+    customCSS = ["/css/custom.css"]  #Optional Customised CSS
