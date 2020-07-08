@@ -14,11 +14,8 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Deploy the site
+      - name: publish
         uses: benmatselby/hugo-deploy-gh-pages@master
-        env:
+        with:
           TARGET_REPO: fubira/fubira.github.io
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          HUGO_ARGS: '--minify'
-          CNAME: fubira.github.io
-
