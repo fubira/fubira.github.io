@@ -2,6 +2,7 @@
 {{- with .Get "link"}}<a href="{{.}}">{{ end -}}
     {{ $img := .Page.Resources.GetMatch (.Get "src") }}
     <img src="{{ with $img }}{{ .Permalink }}{{else}}{{ .Get "src" }}{{ end }}"
+    loading="lazy"
     {{- with .Get "width" }} width="{{.}}"{{ end -}}
     {{- with .Get "alt" }} alt="{{.}}"{{ end -}}
     />
