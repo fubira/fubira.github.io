@@ -6,13 +6,11 @@
   --dark-shades-color: #012622;
 }
 
-/*
 body {
-  font-family: "Hiragion Mincho", "Hiragion Mincho ProN", Apple Color Emoji, Segoe UI Emoji, serif;
+  font-family: "Hiragion Mincho", "Hiragion Mincho ProN", serif, Apple Color Emoji, Segoe UI Emoji;
   font-weight: 500;
   font-size: 1.0rem;
 }
-*/
 
 h1, h2, h3, h4, h5, h6, time {
   font-family: "Martel", serif;
