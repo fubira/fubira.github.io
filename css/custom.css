@@ -17,6 +17,8 @@ h1, h2, h3, h4, h5, h6, time {
   font-family: "Martel", serif;
   font-weight: 900;
 }
+*/
+
 #container nav {
   font-family: "Ubuntu", sans-serif;
   font-weight: 500;
@@ -54,7 +56,6 @@ body {
 #container header h1 a {
   color: var(--dark-shades-color);
 }
-*/
 
 a {
   color: var(--main-brand-color);
