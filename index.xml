@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Empty</title><link>https://fubira.github.io/</link><description>Recent content on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Wed, 08 Jul 2020 22:05:16 +0900</lastBuildDate><atom:link href="https://fubira.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Minecraft</title><link>https://fubira.github.io/minecraft/</link><pubDate>Wed, 08 Jul 2020 21:12:37 +0900</pubDate><guid>https://fubira.github.io/minecraft/</guid><description>&lt;p>拙作Minecraft Mod &amp;amp; Pluginの紹介&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Empty</title><link>https://fubira.github.io/</link><description>Recent content on Empty</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><copyright>Copyright &amp;copy; 2020 - fubira</copyright><lastBuildDate>Thu, 09 Jul 2020 05:38:06 +0900</lastBuildDate><atom:link href="https://fubira.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Minecraft</title><link>https://fubira.github.io/minecraft/</link><pubDate>Wed, 08 Jul 2020 21:12:37 +0900</pubDate><guid>https://fubira.github.io/minecraft/</guid><description>&lt;p>拙作Minecraft Mod &amp;amp; Pluginの紹介&lt;/p>
 &lt;h2 id="mods">Mods&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -82,7 +82,7 @@
 &lt;li>&lt;strong>Programing Languages:&lt;/strong> Node.js, C/C++, Java, Python, PHP, Ruby&lt;/li>
 &lt;li>&lt;strong>Platforms:&lt;/strong> Linux/Unix, iOS, Android, HTML5, Unity&lt;/li>
 &lt;li>&lt;strong>Technologies:&lt;/strong> CI, Docker, OpenGL, Relational DB, NoSQL DB, AWS, IoT&lt;/li>
-&lt;/ul></description></item><item><title>FlightView</title><link>https://fubira.github.io/minecraft-mod-flightview/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-flightview/</guid><description>&lt;p>FlightViewは、エリトラ飛行時に便利な情報を表示するMODです。&lt;/p>
+&lt;/ul></description></item><item><title>Posts</title><link>https://fubira.github.io/posts/</link><pubDate>Thu, 09 Jul 2020 05:38:06 +0900</pubDate><guid>https://fubira.github.io/posts/</guid><description/></item><item><title>FlightView</title><link>https://fubira.github.io/minecraft-mod-flightview/</link><pubDate>Wed, 08 Jul 2020 22:05:16 +0900</pubDate><guid>https://fubira.github.io/minecraft-mod-flightview/</guid><description>&lt;p>FlightViewは、エリトラ飛行時に便利な情報を表示するMODです。&lt;/p>
 &lt;h2 id="features">Features&lt;/h2>
 &lt;ul>
 &lt;li>対空速度、対地速度の表示&lt;/li>
@@ -279,4 +279,4 @@ GitHub&lt;/a>&lt;/strong>&lt;/p>
 &lt;h2 id="license">License&lt;/h2>
 &lt;p>LGPL v3.0&lt;/p>
 &lt;h2 id="author">Author&lt;/h2>
-&lt;p>TTTA2 / fubira / 嫌儲minecraft部&lt;/p></description></item><item><title>Posts</title><link>https://fubira.github.io/posts/</link><pubDate>Wed, 08 Jul 2020 03:34:40 +0900</pubDate><guid>https://fubira.github.io/posts/</guid><description/></item></channel></rss>
+&lt;p>TTTA2 / fubira / 嫌儲minecraft部&lt;/p></description></item></channel></rss>

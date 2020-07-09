@@ -1,23 +1,63 @@
+:root {
+  --light-shades-color: #ECE5F0;
+  --light-accent-color: #E98A15;
+  --main-brand-color: #00BFB2;
+  --dark-accent-color: #028090;
+  --dark-shades-color: #012622;
+}
+
 body {
-  font-family: "Hiragion Gothic", "Hiragion Gothic ProN", "YuGothic", Meiryo, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  /* font-family: "Roboto Slab", "Hiragion Mincho", "Hiragion Mincho ProN", "YuMincho", serif, Apple Color Emoji, Segoe UI Emoji; */
+  font-family: "Hiragion Gothic", "Hiragion Gothic ProN", "Meiryo", Apple Color Emoji, Segoe UI Emoji, sans-serif;
+  font-weight: 500;
   transform: rotate(.03deg);
-  color: #24292e;
   font-size: 1.0rem;
 }
 
+h1, h2, h3, h4, h5, h6, time {
+  font-family: "Martel", "Hiragion Mincho", "Hiragion Mincho ProN", "Yu Mincho", Apple Color Emoji, Segoe UI Emoji, serif;
+  font-weight: 900;
+}
+
+#container nav {
+  font-family: sans-serif;
+  border-bottom: solid 2px var(--dark-accent-color);
+  padding-bottom: 0.4em;
+}
+
+#container nav ul li a.active {
+  padding-bottom: 0.0em;
+  border-bottom: 0.2em solid var(--dark-accent-color);
+}
+
+.meta-aside, #container main section#home ul li aside, #container main article aside {
+  font-family: -serif;
+  font-size: 0.9em;
+}
+
+body {
+  color: var(--dark-shades-color);
+  background-color: var(--light-shades-color);
+}
+
+#container {
+  background-color: #fdfefe;
+}
+#container header h1 a {
+  color: var(--dark-shades-color);
+}
+
 a {
-  color: #2356b6;
+  color: var(--main-brand-color);
   text-decoration: none;
 
 }
 
 a:visited {
-  color: #2356b6;
+  color: var(--main-brand-color);
 }
 
 a:hover {
-  color: #0366d6;
+  color: var(--light-accent-color);
 }
 
 #container main {
