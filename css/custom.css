@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Hiragion Gothic", "Hiragion Gothic ProN", "Meiryo", Apple Color Emoji, Segoe UI Emoji, sans-serif;
+  font-family: "Hiragion Mincho", "Hiragion Mincho ProN", Apple Color Emoji, Segoe UI Emoji, serif;
   font-weight: 500;
   transform: rotate(.03deg);
   font-size: 1.0rem;
@@ -19,18 +19,29 @@ h1, h2, h3, h4, h5, h6, time {
 }
 
 #container nav {
-  font-family: sans-serif;
-  border-bottom: solid 2px var(--dark-accent-color);
-  padding-bottom: 0.4em;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  border-bottom: solid 0px var(--dark-accent-color);
+  padding-bottom: 0.5em;
 }
 
 #container nav ul li a.active {
-  padding-bottom: 0.0em;
+  padding-bottom: 0.3em;
   border-bottom: 0.2em solid var(--dark-accent-color);
 }
 
+#container footer {
+  border-top: solid 0px var(--dark-accent-color);
+}
+
+#container footer h6 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 600;
+  font-size: 0.8em;
+}
+
 .meta-aside, #container main section#home ul li aside, #container main article aside {
-  font-family: sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-size: 0.9em;
 }
 
@@ -40,7 +51,7 @@ body {
 }
 
 #container {
-  background-color: #fdfefe;
+  background-color: #fefefe;
 }
 #container header h1 a {
   color: var(--dark-shades-color);
