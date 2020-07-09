@@ -28,7 +28,6 @@ h1, h2, h3, h4, h5, h6, time {
   padding-bottom: 0.3em;
   border-bottom: 0.2em solid var(--dark-accent-color);
 }
-*/
 #container footer {
   border-top: solid 0px var(--dark-accent-color);
 }
@@ -38,7 +37,6 @@ h1, h2, h3, h4, h5, h6, time {
   font-weight: 600;
   font-size: 0.8em;
 }
-/*
 
 .meta-aside, #container main section#home ul li aside, #container main article aside {
   font-family: "Ubuntu", sans-serif;
