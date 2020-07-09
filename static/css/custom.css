@@ -1,4 +1,3 @@
-/*
 :root {
   --light-shades-color: #ECE5F0;
   --light-accent-color: #E98A15;
@@ -10,10 +9,10 @@
 body {
   font-family: "Hiragion Mincho", "Hiragion Mincho ProN", Apple Color Emoji, Segoe UI Emoji, serif;
   font-weight: 500;
-  transform: rotate(.03deg);
   font-size: 1.0rem;
 }
 
+/*
 h1, h2, h3, h4, h5, h6, time {
   font-family: "Martel", serif;
   font-weight: 900;
