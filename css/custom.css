@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6, time {
   font-family: "Martel", serif;
   font-weight: 900;
 }
-
+/*
 #container nav {
   font-family: "Ubuntu", sans-serif;
   font-weight: 500;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, time {
   padding-bottom: 0.3em;
   border-bottom: 0.2em solid var(--dark-accent-color);
 }
-
+*/
 #container footer {
   border-top: solid 0px var(--dark-accent-color);
 }
@@ -44,11 +44,11 @@ h1, h2, h3, h4, h5, h6, time {
   font-size: 0.9em;
 }
 
+/*
 body {
   color: var(--dark-shades-color);
   background-color: var(--light-shades-color);
 }
-/*
 
 #container {
   background-color: #fefefe;
