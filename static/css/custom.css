@@ -12,7 +12,6 @@ body {
   font-size: 1.0rem;
 }
 
-/*
 h1, h2, h3, h4, h5, h6, time {
   font-family: "Martel", serif;
   font-weight: 900;
@@ -40,6 +39,7 @@ h1, h2, h3, h4, h5, h6, time {
   font-size: 0.8em;
 }
 
+/*
 .meta-aside, #container main section#home ul li aside, #container main article aside {
   font-family: "Ubuntu", sans-serif;
   font-size: 0.9em;
