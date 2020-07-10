@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Hiragion Gothic", "Hiragion Gothic ProN", "Ubuntu", sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-family: "Hiragion Gothic", "Hiragion Gothic ProN", "Ubuntu", "Meiryo", sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 1.0rem;
 }
 
@@ -16,20 +16,46 @@ h1, h2, h3, h4, h5, h6, time {
   font-weight: 600;
 }
 
+#container header h1 {
+  margin-bottom: 0;
+}
+
+#container header p {
+  font-size: 0.9em;
+  color: var(--dark-shades-color);
+  margin-top: 0.8em;
+}
+ 
+
 #container nav {
   font-family: "Khand", sans-serif;
   font-weight: 600;
-  border-bottom: solid 0px var(--dark-accent-color);
-  padding-bottom: 0.5em;
+  font-size: 1.2em;
+  border-bottom: solid 0.0px var(--dark-accent-color);
+  padding-bottom: 0.2em;
 }
 
 #container nav ul li a.active {
-  padding-bottom: 0.3em;
-  border-bottom: 0.2em solid var(--dark-accent-color);
+  padding-bottom: 0.0em;
+  border-bottom: 0.25em solid var(--dark-accent-color);
 }
 #container footer {
   border-top: solid 0px var(--dark-accent-color);
 }
+
+#container footer h6 {
+  font-size: 0.9em;
+}
+
+@media only screen and (max-width: 800px) {
+  #container header ul {
+    float: right;
+  }
+  #container header ul li {
+    margin: 0 1em 0 0;
+  }
+}
+
 
 .meta-aside, #container main section#home ul li aside, #container main article aside {
   font-family: "Khand", sans-serif;
