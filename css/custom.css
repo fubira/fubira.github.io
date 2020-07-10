@@ -7,19 +7,18 @@
 }
 
 body {
-  font-family: "Hiragion Mincho", "Hiragion Mincho ProN", serif, Apple Color Emoji, Segoe UI Emoji;
-  font-weight: 500;
+  font-family: "Hiragion Gothic", "Hiragion Gothic ProN", "Ubuntu", sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 1.0rem;
 }
 
 h1, h2, h3, h4, h5, h6, time {
-  font-family: "Martel", serif;
-  font-weight: 900;
+  font-family: "Khand", sans-serif;
+  font-weight: 600;
 }
 
 #container nav {
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 500;
+  font-family: "Khand", sans-serif;
+  font-weight: 600;
   border-bottom: solid 0px var(--dark-accent-color);
   padding-bottom: 0.5em;
 }
@@ -32,15 +31,9 @@ h1, h2, h3, h4, h5, h6, time {
   border-top: solid 0px var(--dark-accent-color);
 }
 
-#container footer h6 {
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 600;
-  font-size: 0.8em;
-}
-
 .meta-aside, #container main section#home ul li aside, #container main article aside {
-  font-family: "Ubuntu", sans-serif;
-  font-size: 0.9em;
+  font-family: "Khand", sans-serif;
+  font-size: 1.0em;
 }
 
 body {
@@ -58,7 +51,6 @@ body {
 a {
   color: var(--main-brand-color);
   text-decoration: none;
-
 }
 
 a:visited {
