@@ -12,17 +12,17 @@
 &lt;tr>
 &lt;td>&lt;a href="https://fubira.github.io/minecraft-mod-horseinfo/">HorseInfo Reloaded&lt;/a>&lt;/td>
 &lt;td>馬の能力値表示MOD&lt;/td>
-&lt;td>Forge 1.15&lt;/td>
+&lt;td>Forge 1.17.1&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;a href="https://fubira.github.io/minecraft-mod-flightview/">FlightView&lt;/a>&lt;/td>
 &lt;td>エリトラ飛行時の情報表示MOD&lt;/td>
-&lt;td>Forge 1.15&lt;/td>
+&lt;td>Forge 1.17.1&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;a href="https://fubira.github.io/minecraft-mod-skipsign/">SkipSign&lt;/a>&lt;/td>
 &lt;td>看板等の描画を省略し高速化するMOD&lt;/td>
-&lt;td>Forge 1.15&lt;/td>
+&lt;td>Forge 1.17.1&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -112,6 +112,18 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2VEZQVh">v1.17.1-b &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.17.1-37.0.27&lt;/td>
+&lt;td>2021/08/10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2RfDvYR">v1.16.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.16.2-33.0.9&lt;/td>
+&lt;td>2020/09/11&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>&lt;a href="https://bit.ly/3aQ1KoV">v1.15.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
 &lt;/a>&lt;/strong>&lt;/td>
 &lt;td>Forge 1.15.2-31.1.0&lt;/td>
@@ -177,6 +189,18 @@ GitHub&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>HorseInfo Relo
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2VAWwuA">v1.17.1-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.17.1-37.0.27&lt;/td>
+&lt;td>2021/08/09&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/3ijuEl1">v1.16.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.16.2-33.0.9&lt;/td>
+&lt;td>2020/09/11&lt;/td>
+&lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>&lt;a href="https://bit.ly/2yFNiBF">v1.15.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
 &lt;/a>&lt;/strong>&lt;/td>
@@ -253,6 +277,18 @@ GitHub&lt;/a>&lt;/strong>&lt;/p>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/3xCfr5j">v1.17.1-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.17.1-37.0.27&lt;/td>
+&lt;td>2021/08/09&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>&lt;a href="https://bit.ly/2RaShQP">v1.16.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/strong>&lt;/td>
+&lt;td>Forge 1.16.2-33.0.9&lt;/td>
+&lt;td>2020/09/11&lt;/td>
+&lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>&lt;a href="https://bit.ly/2XbCaGV">v1.15.2-a &lt;i class="fas fa-external-link-alt">&lt;/i>
 &lt;/a>&lt;/strong>&lt;/td>
