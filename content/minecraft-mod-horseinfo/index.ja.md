@@ -29,6 +29,8 @@ HorseInfo Reloadedは、馬などのMob entityのパラメータをMobの上部�
 
 | ダウンロード                                                                              | 対応バージョン        | 更新日         |
 | ----------------------------------------------------------------------------------------- | --------------------- | -------------- |
+| **[v1.17.1-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2VAWwuA)**        | Forge 1.17.1-37.0.27   | 2021/08/09     |
+| **[v1.16.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/3ijuEl1)**        | Forge 1.16.2-33.0.9   | 2020/09/11     |
 | **[v1.15.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2yFNiBF)**        | Forge 1.15.2-31.1.0   | 2020/04/08     |
 | **[v1.14.4-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2MU0Y0P)**        | Forge 1.14.4-28.2.0   |                |
 | **[rift-v1.13.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2lTRIP3)**   | Rift 1.0.4-106 1.13.2 |                |

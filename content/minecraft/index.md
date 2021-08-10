@@ -13,9 +13,9 @@ image: "minecraft.jpg"
 
 |                                                                 | 概要                                 | 対応バージョン |
 | --------------------------------------------------------------- | ------------------------------------ | -------------- |
-| [HorseInfo Reloaded]({{< ref "/minecraft-mod-horseinfo" >}})    | 馬の能力値表示MOD                    | Forge 1.15     |
-| [FlightView]({{< ref "/minecraft-mod-flightview" >}})           | エリトラ飛行時の情報表示MOD          | Forge 1.15     |
-| [SkipSign]({{< ref "/minecraft-mod-skipsign" >}})               | 看板等の描画を省略し高速化するMOD    | Forge 1.15     |
+| [HorseInfo Reloaded]({{< ref "/minecraft-mod-horseinfo" >}})    | 馬の能力値表示MOD                    | Forge 1.17.1     |
+| [FlightView]({{< ref "/minecraft-mod-flightview" >}})           | エリトラ飛行時の情報表示MOD          | Forge 1.17.1    |
+| [SkipSign]({{< ref "/minecraft-mod-skipsign" >}})               | 看板等の描画を省略し高速化するMOD    | Forge 1.17.1    |
 
 ## Plugins
 

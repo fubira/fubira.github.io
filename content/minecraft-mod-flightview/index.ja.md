@@ -27,6 +27,8 @@ FlightViewは、エリトラ飛行時に便利な情報を表示するMODです�
 
 | ダウンロード                                   | 対応バージョン        | 更新日         |
 | ---------------------------------------------- | --------------------- | -------------- |
+| **[v1.17.1-b {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2VEZQVh)**        | Forge 1.17.1-37.0.27   | 2021/08/10     |
+| **[v1.16.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2RfDvYR)**        | Forge 1.16.2-33.0.9   | 2020/09/11     |
 | **[v1.15.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/3aQ1KoV)**        | Forge 1.15.2-31.1.0   | 2020/04/07     |
 | **[v1.14.4-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2yMDLp7)**        | Forge 1.14.4-28.0.40  |                |
 | **[rift-v1.13.2-a {{< i class="fas fa-external-link-alt" >}}](https://bit.ly/2kOC7Qy)**   | Rift 1.0.4-106 1.13.2 |                |
